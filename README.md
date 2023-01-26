@@ -2,6 +2,7 @@
 
 Hola soy Ale!!! 💜
 Hola soy Tere
+<<<<<<< HEAD
 <<<<<<< HEAD    llllll
 Hola soy Hilda 🙋🏻‍♀️!!
 Hola soy Nere 🐣
@@ -19,6 +20,9 @@ Hola Auri 💚
 Hola soy Kiara
 Hola Maite
 
+=======
+Hola soy Hilda 🙋🏻‍♀️!!
+>>>>>>> parent of 1bda778 (hola)
 
 ╭━┳━╭━╭━╮╮
 ┃┈┈┈┣▅╋▅┫┃
@@ -28,5 +32,3 @@ Hola Maite
 ╲┃┈┈┈┈┈┈┈┈┈◥▉◤
 ╲┃┈┈┈┈╭━┳━━━━╯
 ╲┣━━━━━━┫﻿
-=======
->>>>>>> parent of f88db8c (Saludo Hilda)
