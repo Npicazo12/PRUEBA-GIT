@@ -2,11 +2,12 @@
 
 Hola soy Ale!!! 💜
 Hola soy Tere
+<<<<<<< HEAD
+<<<<<<< HEAD    llllll
 Hola soy Hilda 🙋🏻‍♀️!!
 Hola soy Nere 🐣
 Hola soy Maite
 Hola soy Ana 🥷
-holiii Gema
 holiii Gema 💗
 Hola soy Andrea 
 Hola soy Yola 🙋‍♀️
@@ -19,6 +20,9 @@ Hola Auri 💚
 Hola soy Kiara
 Hola Maite
 
+=======
+Hola soy Hilda 🙋🏻‍♀️!!
+>>>>>>> parent of 1bda778 (hola)
 
 ╭━┳━╭━╭━╮╮
 ┃┈┈┈┣▅╋▅┫┃
