@@ -2,7 +2,7 @@
 
 Hola soy Ale!!! 💜
 Hola soy Tere
-<<<<<<< HEAD
+<<<<<<< HEAD    llllll
 Hola soy Hilda 🙋🏻‍♀️!!
 Hola soy Nere 🐣
 Hola soy Maite
