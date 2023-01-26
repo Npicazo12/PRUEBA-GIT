@@ -4,6 +4,6 @@ Hola soy Ale!!! 💜
 Hola soy Tere
 Hola soy Nere 🐣
 Hola soy Maite
-holiii gema
+holiii Gema
 Hola soy Andrea 
 Hola soy Yola
