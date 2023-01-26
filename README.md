@@ -5,7 +5,23 @@ Hola soy Tere
 Hola soy Hilda 🙋🏻‍♀️!!
 Hola soy Nere 🐣
 Hola soy Maite
-holiii Gema
+Hola soy Ana 🥷
+holiii Gema 💗
 Hola soy Andrea 
 Hola soy Yola
 Hola soy Silvia!!!!!
+te como la cara nere"soy mila"
+Hola soy Mari😇
+Holi soy valery
+Hola Auri 💚
+
+
+
+╭━┳━╭━╭━╮╮
+┃┈┈┈┣▅╋▅┫┃
+┃┈┃┈╰━╰━━━━━━╮
+╰┳╯┈┈┈┈┈┈┈┈┈◢▉◣
+╲┃┈┈┈┈┈┈┈┈┈▉▉▉
+╲┃┈┈┈┈┈┈┈┈┈◥▉◤
+╲┃┈┈┈┈╭━┳━━━━╯
+╲┣━━━━━━┫﻿
